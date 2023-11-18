@@ -48,7 +48,7 @@ namespace Tyuiu.MenshikovEA.Sprint5.Task2.V23.Lib
                     }
                     else
                     {
-                        str = str + matrix[i, j] + ";";
+                        str = str + matrix[i, j];
                     }
 
                 }
